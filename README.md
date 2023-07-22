@@ -1,5 +1,8 @@
 # WooCommerce Order Notice Display Without My Account Page Content
-
+## Location:
+```
+functions.php
+```
 ```
 // Display order note and status on order details page
 function display_order_note_and_status() {
